@@ -3853,7 +3853,10 @@ var HttpCodes;
     HttpCodes[HttpCodes["NotAcceptable"] = 406] = "NotAcceptable";
     HttpCodes[HttpCodes["ProxyAuthenticationRequired"] = 407] = "ProxyAuthenticationRequired";
     HttpCodes[HttpCodes["RequestTimeout"] = 408] = "RequestTimeout";
-    HttpCodes[HttpCodes["Conflict"] = 409] = "Conflict";
+    HttpCodes[HttpCodes["
+    
+    
+    "] = 409] = "Conflict";
     HttpCodes[HttpCodes["Gone"] = 410] = "Gone";
     HttpCodes[HttpCodes["TooManyRequests"] = 429] = "TooManyRequests";
     HttpCodes[HttpCodes["InternalServerError"] = 500] = "InternalServerError";
